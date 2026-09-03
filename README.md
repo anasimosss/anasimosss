@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Henok Kebede</h1>
+<p align="center"><b>Full-Stack Software Engineer • Turning Complex Logic Into Clean Code</b></p>
 
-<!--
-**rabrhcall/rabrhcall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rabrhcall&color=007ec6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rabrhcall?color=007ec6&style=flat-square&logo=github&label=Followers" alt="Followers" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+* **Languages:** Python, JavaScript, HTML/CSS, SQL
+* **Backend & APIs:** Django, FastAPI, Node.js
+* **Frontend:** React, Responsive UI
+* **Databases & Tools:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Git
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabrhcall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabrhcall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabrhcall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
