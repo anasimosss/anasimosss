@@ -154,10 +154,10 @@ It also includes tenant-isolated data access, rent/payment management, Chapa pay
 
 <p>
   📧 <strong>Email:</strong>
-  <a href="mailto:henokkebe@gmail.com">henokkebe@gmail.com</a>
+  <a href="mailto:jehovahhh35@gmail.com">jehovahhh35@gmail.com</a>
 </p>
 
 <p>
   💻 <strong>GitHub:</strong>
-  <a href="https://github.com/rabrhcall">github.com/rabrhcall</a>
+  <a href="https://github.com/anasimosss">github.com/anasimosss</a>
 </p>
